@@ -1,4 +1,11 @@
-# Lores list
+# Lores by spz
+
+I shall forever be thankful for the chance to help create and expand the Runiverse. Here you will find lore pieces written by me, for myself and for others.
+
+Lore not floor!
+
+https://www.forgottenrunes.com
+
 
 ## spz
 
@@ -15,7 +22,7 @@
 | Hedge Wizard Peppy of the Cosmos | https://www.forgottenrunes.com/lore/wizards/4098/0 |
 
 
-## Wabglbgl
+## Warbglblg
 
 | Wizard | URL |
 |--------|-----|
@@ -26,18 +33,20 @@
 | Grave Robbing Kobold Poppy of the Technicolor Nightmare | https://www.forgottenrunes.com/lore/souls/9383/0 |
 
 
-## qesmhar
+## qeshmar
 
 | Wizard | URL |
 |--------|-----|
-| Magus Eggplant of the Sea | ??? |
+| Magus Eggplant of the Sea | Not yet posted to BoL |
 
 
 ## Soby
 
 | Wizard | URL |
 |--------|-----|
-| Fugh | ??? |
+| Shaman Fugh | Not yet posted to BoL |
+| Solomon | WIP |
+| Robert | WIP |
 
 
 ## blockomoco
@@ -48,3 +57,10 @@
 | Aleister of the Palms | https://www.forgottenrunes.com/lore/wizards/4891/0 |
 | Magus Galatea of the Heath | https://www.forgottenrunes.com/lore/wizards/1685/0 |
 | Magus Atlanta of the Hills | https://www.forgottenrunes.com/lore/wizards/900/0 |
+
+
+## chifoomi
+| Wizard | URL |
+|--------|-----|
+| Light Mage Vatar of the Ice | WIP |
+| ??? | WIP |
