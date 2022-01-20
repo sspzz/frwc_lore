@@ -39,4 +39,4 @@ Not to mention the fact that the strange raptor, very much like himself, was ent
 
 "Your mother knew the cost when the bargain was struck, we have held up our end - and I have come to claim my price. You, Pezo. I had hoped you had manifested by now, but no matter. This may hurt just a bit my child, since the Bond must be transferred," the bird continued, wings spread ever wider, eyes akin to brilliant stars - glowing brighter and brighter.
 
-It started as a ringing in his ears, his skin tingling as it often did before the seasonal storms hit, and the earth moving beneath his feet as though riddled with serpents, until his vision narroved to two distant singularities - bright as distant stars - until they too were gone.
+It started as a ringing in his ears, his skin tingling as it often did before the seasonal storms hit, the earth moving beneath his feet as though riddled with serpents, until his vision narrowed to those two distant singularities - bright as distant stars - until they too were gone.
