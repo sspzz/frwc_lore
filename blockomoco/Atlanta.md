@@ -14,7 +14,7 @@ And where she went, so slithered her Snake
 And Oh! How hearts of Men did Break  
 
 For such was her Malisciousness  
-Well hit beneath Deceit  
+Well hid beneath Deceit  
 That none could help but fall for her  
 Infatutation fore long complete  
 
