@@ -30,4 +30,4 @@ Lore pieces written by me, for myself and for others.
 | blockomoco | Magus Atlanta of the Hills | https://www.forgottenrunes.com/lore/wizards/900/0 |
 | chifoomi | Light Mage Vatar of the Ice | WIP |
 | chifoomi | ??? | WIP |
-| mmmaize | Diviner Pezo of the Dunes | WIP |
+| mmmaize | Diviner Pezo of the Dunes | https://www.forgottenrunes.com/lore/wizards/3730/0 |

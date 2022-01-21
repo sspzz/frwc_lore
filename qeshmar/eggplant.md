@@ -20,7 +20,7 @@
 
 The voyage across the Salt had taken longer than expected, the seas seemingly unwilling to relinquish the hold she had held over him for near a decade – eager to keep him tight to her deep bosom, her seduction a lulling caress of brine and bounty. It may just be imagination, but there was a maternal quality to the sensation, and why not? The vast briny expanse had lulled him to sleep countless times, witnessed his greatest victories, and stood vigil on his metamorphosis from boisterous boyhood to a man of discipline and steely will.
 
-However, steadfast he had remained in his chosen path; his taste for conquest turning from sated, to indifferent, to an unfamiliar sense of shame. How ironic that only once your belly was full to bursting, all your aspirations met with plenty to spare, only then could one feel futility and true emptiness. 
+However, steadfast he had remained in his chosen path; his taste for conquest had turned from sated, to indifferent, to an unfamiliar sense of shame. How ironic that only once your belly was full to bursting, all your aspirations met with plenty to spare, only then could one feel futility and true emptiness. 
 
 Captain Jiro had, of course, also been reluctant to let his once overly ambitious, recalcitrant and insatiable first mate go, but once decided his will was indomitable and the captain had grudgingly, with typical disgruntled and sour demeanor, accepted his request to return home.
 
