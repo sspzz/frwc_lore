@@ -1,16 +1,13 @@
-# 📖 Lores by spz
 
-I shall forever be thankful for the chance to help create and expand the Runiverse.
+#  🧙🏼‍♂️ Lore by spz
+![header](https://user-images.githubusercontent.com/91800037/151713963-b2aafaf4-31ed-4bda-aebf-8c92b87d92f8.png)
 
-Lore not floor!
+> Summon thy Wizard  
+> Put thy Rune on the door
 
-https://www.forgottenrunes.com
+Here are my contributions to the creation of the Collective Legendarium, expanding the Runiverse one Rune at a time. 
 
-## 🧙🏼‍♂️ Entries
-
-Lore pieces written by me, for myself and for others.
-
-| Pic | Wizard | URL |
+|  | Wizard | URL |
 |---|---|---|
 | ![8679-sorcerer-ilyas-of-the-fey](https://user-images.githubusercontent.com/91800037/151445180-07e72ed4-cf36-435f-86b6-6877af0e08fc.png) | Sorcerer Ilyas of the Fey | https://www.forgottenrunes.com/lore/wizards/8679/0 |
 | ![7163-sorcerer-milo-from-the-abyss](https://user-images.githubusercontent.com/91800037/151445255-983c13d9-593c-457f-80ba-82847c563b6f.png) | Sorcerer Milo from the Abyss | https://www.forgottenrunes.com/lore/wizards/7163/0 |
@@ -29,5 +26,4 @@ Lore pieces written by me, for myself and for others.
 | ![1685-magus-galatea-of-the-heath](https://user-images.githubusercontent.com/91800037/151446434-d0aeed5d-8829-4d32-8cd7-7cd2d692c7c1.png) | Magus Galatea of the Heath | https://www.forgottenrunes.com/lore/wizards/1685/0 |
 | ![900-magus-atlanta-of-the-hills](https://user-images.githubusercontent.com/91800037/151446467-4141a62f-6677-4191-a368-bf591af7861b.png) | Magus Atlanta of the Hills | https://www.forgottenrunes.com/lore/wizards/900/0 |
 | ![9084-light-mage-vatar-of-the-ice](https://user-images.githubusercontent.com/91800037/151446643-d1662a8b-84a0-4430-9920-2352468b5bd6.png) | Light Mage Vatar of the Ice | WIP |
-| ??? | ??? | WIP |
 | ![3730-diviner-pezo-of-the-dunes](https://user-images.githubusercontent.com/91800037/151446681-63a5c409-a81c-4bd7-b669-b5bc21282426.png) | Diviner Pezo of the Dunes | https://www.forgottenrunes.com/lore/wizards/3730/0 |
