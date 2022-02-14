@@ -27,3 +27,5 @@ Here are my contributions to the creation of the Collective Legendarium, expandi
 | ![900-magus-atlanta-of-the-hills](https://user-images.githubusercontent.com/91800037/151446467-4141a62f-6677-4191-a368-bf591af7861b.png) | Magus Atlanta of the Hills | https://www.forgottenrunes.com/lore/wizards/900/0 |
 | ![9084-light-mage-vatar-of-the-ice](https://user-images.githubusercontent.com/91800037/151446643-d1662a8b-84a0-4430-9920-2352468b5bd6.png) | Light Mage Vatar of the Ice | WIP |
 | ![3730-diviner-pezo-of-the-dunes](https://user-images.githubusercontent.com/91800037/151446681-63a5c409-a81c-4bd7-b669-b5bc21282426.png) | Diviner Pezo of the Dunes | https://www.forgottenrunes.com/lore/wizards/3730/0 |
+| ![bloodymary](https://user-images.githubusercontent.com/91800037/153852128-e338ab35-19cc-4749-b02c-8086bf2bf550.png) | Bloody Mary | WIP |
+
