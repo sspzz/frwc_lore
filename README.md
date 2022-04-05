@@ -28,4 +28,10 @@ Here are my contributions to the creation of the Collective Legendarium, expandi
 | ![9084-light-mage-vatar-of-the-ice](https://user-images.githubusercontent.com/91800037/151446643-d1662a8b-84a0-4430-9920-2352468b5bd6.png) | Light Mage Vatar of the Ice | WIP |
 | ![3730-diviner-pezo-of-the-dunes](https://user-images.githubusercontent.com/91800037/151446681-63a5c409-a81c-4bd7-b669-b5bc21282426.png) | Diviner Pezo of the Dunes | https://www.forgottenrunes.com/lore/wizards/3730/0 |
 | ![bloodymary](https://user-images.githubusercontent.com/91800037/153852128-e338ab35-19cc-4749-b02c-8086bf2bf550.png) | Bloody Mary | https://www.forgottenrunes.com/lore/souls/133/0 |
+| ![unnamed-11](https://user-images.githubusercontent.com/91800037/161728526-9b2a80f3-6390-4f3c-b750-4ce12a8a9b04.png) | Hedge Wizard Gorg of the Sun | WIP |
+| ![unnamed-12](https://user-images.githubusercontent.com/91800037/161728438-cf9928b5-eac9-4bfa-a8db-766b87c8e0f4.png) | Magus Jahid of the Realm | WIP |
+| ![unnamed-13](https://user-images.githubusercontent.com/91800037/161728557-1f83c91e-76ad-4544-b379-3d814729e1c4.png) | Garfield the Exemplary | WIP |
+
+
+
 
