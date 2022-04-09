@@ -18,7 +18,7 @@ Here are my contributions to the creation of the Collective Legendarium, expandi
 | ![2487-druid-eyolf-of-arcadia](https://user-images.githubusercontent.com/91800037/151445564-51a9c12a-7620-4bba-a526-183c82ea618f.png) | Druid Eyolf of Arcadia | https://www.forgottenrunes.com/lore/wizards/2487/0 |
 | ![poppy](https://user-images.githubusercontent.com/91800037/151445756-00919e6c-5241-42cc-89cc-8dc46b5195cc.png) | Grave Robbing Kobold Poppy of the Technicolor Nightmare | https://www.forgottenrunes.com/lore/souls/9383/0 |
 | ![7455-magus-eggplant-of-the-sea](https://user-images.githubusercontent.com/91800037/151445980-cbbcdd3b-bdfb-4ddc-92c7-bcc253ade110.png) | Magus Eggplant of the Sea | Not yet posted to BoL |
-| ![5025-shaman-fugh-](https://user-images.githubusercontent.com/91800037/151446123-dbc54818-d0d0-4fd9-ace4-8050cb1a45c9.png) | Shaman Fugh | Not yet posted to BoL |
+| ![5025-shaman-fugh-](https://user-images.githubusercontent.com/91800037/151446123-dbc54818-d0d0-4fd9-ace4-8050cb1a45c9.png) | Shaman Fugh | https://www.forgottenrunes.com/lore/wizards/5025/0 |
 | ![1444--solomon-](https://user-images.githubusercontent.com/91800037/151446314-df9ae2e4-02c2-4ba5-92b8-58b4b0a4178b.png) | Solomon | WIP |
 | ![6935-alchemist-robert-](https://user-images.githubusercontent.com/91800037/151446346-a2cb66a8-f096-44d1-813c-6402f5594bf8.png) | Alchemist Robert | WIP |
 | ![5731-archmagus-ixar-of-the-mount](https://user-images.githubusercontent.com/91800037/151446379-8fa94392-cb9d-4694-8323-4c915cab33cb.png) | Archmagus Ixar of the Mount | https://www.forgottenrunes.com/lore/wizards/5731/0 |
