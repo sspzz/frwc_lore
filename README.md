@@ -31,6 +31,8 @@ Here are my contributions to the creation of the Collective Legendarium, expandi
 | ![unnamed-11](https://user-images.githubusercontent.com/91800037/161728526-9b2a80f3-6390-4f3c-b750-4ce12a8a9b04.png) | Hedge Wizard Gorg of the Sun | https://www.forgottenrunes.com/lore/wizards/5614/0 |
 | ![unnamed-12](https://user-images.githubusercontent.com/91800037/161728438-cf9928b5-eac9-4bfa-a8db-766b87c8e0f4.png) | Magus Jahid of the Realm | https://www.forgottenrunes.com/lore/wizards/4377/2 |
 | ![unnamed-13](https://user-images.githubusercontent.com/91800037/161728557-1f83c91e-76ad-4544-b379-3d814729e1c4.png) | Garfield the Exemplary | https://www.forgottenrunes.com/lore/ponies/138/0 |
+| ![unnamed-14](https://user-images.githubusercontent.com/91800037/164073138-93181b12-40ef-4bcc-927c-e6cbdfce7df6.png) | Night Ghoul Zixin of the Ice Abyss | Not yet in BoL |
+
 
 
 
